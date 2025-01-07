@@ -1,4 +1,2 @@
 DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.net
 IP-CIDR,18.1.224.253/32
-RULE-SET,https://whatshub.top/rule/WeChat.list
