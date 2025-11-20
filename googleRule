@@ -18,16 +18,7 @@ DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
 DOMAIN-SUFFIX,googledrive.com
 DOMAIN-SUFFIX,goo.gle
 
-
-# Gemini 专用域名
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,ai.google.dev
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,aistudio.google.com
-
-# Google AI 相关
+# > Google AI 相关
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,bard
